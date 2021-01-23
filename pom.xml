@@ -1012,7 +1012,7 @@
         <org.codehaus.jackson.version>1.9.12</org.codehaus.jackson.version>
         <carbon.rest.api.version>4.2.2</carbon.rest.api.version>
         <rampart.wso2.version>1.6.1-wso2v18</rampart.wso2.version>
-        <slf4j.api.version>1.5.6</slf4j.api.version>
+        <slf4j.api.version>1.7.30</slf4j.api.version>
         <google.code.gson.version>2.7</google.code.gson.version>
 
         <!-- Store -->

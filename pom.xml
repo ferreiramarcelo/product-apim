@@ -1033,7 +1033,7 @@
         <ws.seccurity.version>1.5.11.wso2v7</ws.seccurity.version>
         <bam.feature.version>4.2.6</bam.feature.version>
         <jacoco.agent.version>0.7.4.201502262128</jacoco.agent.version>
-        <google.guava.version>18.0</google.guava.version>
+        <google.guava.version>30.0-android</google.guava.version>
 
         <carbon.metrics.version>1.2.0</carbon.metrics.version>
         <!-- MB Features -->

@@ -914,7 +914,7 @@
 
 
         <!-- Carbon Governance -->
-        <carbon.governance.version>4.7.0</carbon.governance.version>
+        <carbon.governance.version>4.7.30</carbon.governance.version>
 
         <!--carbon versions-->
         <carbon.kernel.version>4.4.10</carbon.kernel.version>
@@ -1006,7 +1006,7 @@
 
         <carbon.automation.version>4.4.3</carbon.automation.version>
         <carbon.automationutils.version>4.4.2</carbon.automationutils.version>
-        <org.apache.cxf.version>3.1.7</org.apache.cxf.version>
+        <org.apache.cxf.version>3.4.10</org.apache.cxf.version>
         <org.springframework.version>3.2.0.RELEASE</org.springframework.version>
         <org.apache.tomcat>7.0.109</org.apache.tomcat>
         <org.codehaus.jackson.version>1.9.12</org.codehaus.jackson.version>

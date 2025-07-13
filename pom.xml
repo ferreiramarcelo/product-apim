@@ -1004,11 +1004,11 @@
 
         <orbit.version.h2.engine>1.2.140.wso2v3</orbit.version.h2.engine>
 
-        <carbon.automation.version>4.4.3</carbon.automation.version>
+        <carbon.automation.version>4.4.4</carbon.automation.version>
         <carbon.automationutils.version>4.4.2</carbon.automationutils.version>
         <org.apache.cxf.version>3.1.7</org.apache.cxf.version>
         <org.springframework.version>3.2.0.RELEASE</org.springframework.version>
-        <org.apache.tomcat>7.0.109</org.apache.tomcat>
+        <org.apache.tomcat>9.0.106</org.apache.tomcat>
         <org.codehaus.jackson.version>1.9.12</org.codehaus.jackson.version>
         <carbon.rest.api.version>4.2.2</carbon.rest.api.version>
         <rampart.wso2.version>1.6.1-wso2v18</rampart.wso2.version>

@@ -902,7 +902,7 @@
     <properties>
 
         <project.scm.id>scm-server</project.scm.id>
-        <carbon.analytics.common.version>5.1.4</carbon.analytics.common.version>
+        <carbon.analytics.common.version>5.1.58</carbon.analytics.common.version>
 
         <!-- APIM Component Version -->
         <carbon.apimgt.version>9.9.9-SNAPSHOT</carbon.apimgt.version>
@@ -1004,7 +1004,7 @@
 
         <orbit.version.h2.engine>1.2.140.wso2v3</orbit.version.h2.engine>
 
-        <carbon.automation.version>4.4.3</carbon.automation.version>
+        <carbon.automation.version>4.4.4</carbon.automation.version>
         <carbon.automationutils.version>4.4.2</carbon.automationutils.version>
         <org.apache.cxf.version>3.1.7</org.apache.cxf.version>
         <org.springframework.version>3.2.0.RELEASE</org.springframework.version>
